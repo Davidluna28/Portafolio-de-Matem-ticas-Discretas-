@@ -35,6 +35,17 @@
   <br>
   <blockquote>
 
+  
+## Introducción
+
+En esta unidad adquirí conocimientos sólidos sobre **Teoría de Grafos y sus aplicaciones computacionales**, abordando desde los fundamentos conceptuales hasta su aplicación práctica en la resolución de problemas reales de redes y optimización.
+
+Comprendí los **fundamentos de la teoría de grafos**, incluyendo sus elementos, propiedades y representaciones, así como los principales **algoritmos de búsqueda y caminos mínimos** (BFS, DFS y Dijkstra), aplicándolos en talleres colaborativos para resolver problemas de conectividad y optimización de rutas. Asimismo, profundicé en los **fundamentos de árboles** como estructura particular dentro de la teoría de grafos, y desarrollé habilidades para el **modelado de redes** utilizando herramientas especializadas como Graph Online y Gephi.
+
+Este proceso de aprendizaje se desarrolló a través de las **Actividades de Aprendizaje Colaborativo con el Docente (ACD)**, mediante presentaciones participativas y la metodología Flipped Classroom; las **Actividades Prácticas Experimentales (APE)**, enfocadas en talleres de aplicación de algoritmos y modelado de redes; y las **Actividades Autónomas (AA)**, mediante investigación independiente sobre aplicaciones de grafos en redes, optimización y bases de datos, plasmada en mini-informes y exposiciones con apoyo de recursos TIC.
+
+En conjunto, estas actividades me permitieron desarrollar competencias tanto teóricas como prácticas, fortaleciendo mi capacidad de análisis, modelado y resolución de problemas mediante estructuras de grafos.
+
 
 
 
