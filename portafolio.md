@@ -46,6 +46,20 @@ Este proceso de aprendizaje se desarrolló a través de las **Actividades de Apr
 
 En conjunto, estas actividades me permitieron desarrollar competencias tanto teóricas como prácticas, fortaleciendo mi capacidad de análisis, modelado y resolución de problemas mediante estructuras de grafos.
 
+## 📂 Documentos de Trabajo
+
+### 🤝 Actividades de Aprendizaje Colaborativo con el Docente (ACD)
+- [ACD 1 - Fundamentos de Teoría de Grafos](./docs/ACD1_fundamentos_grafos.pdf)
+- [ACD 2 - Algoritmos de Búsqueda y Árboles](./docs/ACD2_algoritmos_busqueda.pdf)
+
+### 🔬 Actividades Prácticas Experimentales (APE)
+- [APE 1 - Taller de Algoritmos BFS, DFS y Dijkstra](./docs/APE1_taller_algoritmos.pdf)
+- [APE 2 - Modelado de Redes con Gephi](./docs/APE2_modelado_redes.pdf)
+
+### 📚 Actividades Autónomas (AA)
+- [AA 1 - Investigación: Aplicaciones de Grafos en Redes](./docs/AA1_investigacion_redes.pdf)
+- [AA 2 - Mini-informe: Optimización y Bases de Datos](./docs/AA2_miniinforme_optimizacion.pdf)
+
 
 
 
