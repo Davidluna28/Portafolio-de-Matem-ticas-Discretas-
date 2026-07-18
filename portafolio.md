@@ -49,8 +49,8 @@ En conjunto, estas actividades me permitieron desarrollar competencias tanto te�
 ## 📂 Documentos de Trabajo
 
 ### 🤝 Actividades de Aprendizaje Colaborativo con el Docente (ACD)
-- [ACD 1 - Fundamentos de Teoría de Grafos](./docs/ACD1_fundamentos_grafos.pdf)
-- [ACD 2 - Algoritmos de Búsqueda y Árboles](./docs/ACD2_algoritmos_busqueda.pdf)
+- [ACD 1 - Fundamentos de Teoría de Grafos](https://drive.google.com/file/d/1Rh3Eh2ut_DPWC3hirR4UTIWy5KnzueRd/view?usp=drive_link)
+- [ACD 2 - Algoritmos de Búsqueda y Árboles](https://drive.google.com/file/d/1HilABasMTeCkO3u6DWaAMgfg_D46jUj5/view?usp=drive_link)
 
 ### 🔬 Actividades Prácticas Experimentales (APE)
 - [APE 1 - Taller de Algoritmos BFS, DFS y Dijkstra](./docs/APE1_taller_algoritmos.pdf)
@@ -58,7 +58,7 @@ En conjunto, estas actividades me permitieron desarrollar competencias tanto te�
 
 ### 📚 Actividades Autónomas (AA)
 - [AA 1 - Investigación: Aplicaciones de Grafos en Redes](https://drive.google.com/file/d/1vUcrgZjhVkFzeAo9VxPXAJ5Pk83Bkh9a/view?usp=drive_link)
-- [AA 2 - Mini-informe: Optimización y Bases de Datos](./docs/AA2_miniinforme_optimizacion.pdf)
+- [AA 2 - Mini-informe: Optimización y Bases de Datos](https://drive.google.com/file/d/1cEoPq5t2Lgdbo6vzuGEvJol35WO9TXd8/view?usp=drive_link)
 
 
 
