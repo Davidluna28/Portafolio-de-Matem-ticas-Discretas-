@@ -49,7 +49,8 @@ En conjunto, estas actividades me permitieron desarrollar competencias tanto te�
 ## 📂 Documentos de Trabajo
 
 ### 🤝 Actividades de Aprendizaje Colaborativo con el Docente (ACD)
-- [ACD 1 - Fundamentos de Teoría de Grafos](https://drive.google.com/file/d/1Rh3Eh2ut_DPWC3hirR4UTIWy5KnzueRd/view?usp=drive_link)
+- [ACD 1 - Fundamentos de Teoría de Grafos](https://drive.google.com/file/d/1tklkGLgrw__ghgnAEKLk-scn5mpUPMjo/view?usp=drive_link)
+- (https://drive.google.com/file/d/19-TdOE7FIRyGSCZ-dVk3DSjlLi0uBY_g/view?usp=drive_link)
 - [ACD 2 - Algoritmos de Búsqueda y Árboles](https://drive.google.com/file/d/1HilABasMTeCkO3u6DWaAMgfg_D46jUj5/view?usp=drive_link)
 
 ### 🔬 Actividades Prácticas Experimentales (APE)
