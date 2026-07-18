@@ -53,8 +53,8 @@ En conjunto, estas actividades me permitieron desarrollar competencias tanto te�
 - [ACD 2 - Algoritmos de Búsqueda y Árboles](https://drive.google.com/file/d/1HilABasMTeCkO3u6DWaAMgfg_D46jUj5/view?usp=drive_link)
 
 ### 🔬 Actividades Prácticas Experimentales (APE)
-- [APE 1 - Taller de Algoritmos BFS, DFS y Dijkstra](./docs/APE1_taller_algoritmos.pdf)
-- [APE 2 - Modelado de Redes con Gephi](./docs/APE2_modelado_redes.pdf)
+- [APE 1 - Taller de Algoritmos BFS, DFS y Dijkstra](https://drive.google.com/file/d/1Rh3Eh2ut_DPWC3hirR4UTIWy5KnzueRd/view?usp=drive_link)
+- [APE 2 - Modelado de Redes con Gephi](https://drive.google.com/file/d/1HilABasMTeCkO3u6DWaAMgfg_D46jUj5/view?usp=drive_link)
 
 ### 📚 Actividades Autónomas (AA)
 - [AA 1 - Investigación: Aplicaciones de Grafos en Redes](https://drive.google.com/file/d/1vUcrgZjhVkFzeAo9VxPXAJ5Pk83Bkh9a/view?usp=drive_link)
