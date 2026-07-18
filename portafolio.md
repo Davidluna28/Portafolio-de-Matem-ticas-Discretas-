@@ -57,7 +57,7 @@ En conjunto, estas actividades me permitieron desarrollar competencias tanto te�
 - [APE 2 - Modelado de Redes con Gephi](./docs/APE2_modelado_redes.pdf)
 
 ### 📚 Actividades Autónomas (AA)
-- [AA 1 - Investigación: Aplicaciones de Grafos en Redes](./docs/AA1_investigacion_redes.pdf)
+- [AA 1 - Investigación: Aplicaciones de Grafos en Redes](https://drive.google.com/file/d/1vUcrgZjhVkFzeAo9VxPXAJ5Pk83Bkh9a/view?usp=drive_link)
 - [AA 2 - Mini-informe: Optimización y Bases de Datos](./docs/AA2_miniinforme_optimizacion.pdf)
 
 
