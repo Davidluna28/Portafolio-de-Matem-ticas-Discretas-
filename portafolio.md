@@ -52,4 +52,7 @@ En conjunto, estas actividades me permitieron desarrollar competencias tanto teÃ
 
 
 
+
+
+
   </details>
